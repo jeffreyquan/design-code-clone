@@ -13,8 +13,7 @@ function HeroSection() {
         <TextWrapper>
           <Title>
             Design
-            <br /> and code
-            <span>React</span> apps
+            <br /> and code <span> React</span> apps
           </Title>
           <Description>
             Don’t skip design. Learn design and code, by building real apps with
